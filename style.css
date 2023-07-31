@@ -6,7 +6,7 @@
     margin: 0%;
 }
 .navbar{
-    position: sticky;
+    position:relative;
     top: 0px;
 }
 
